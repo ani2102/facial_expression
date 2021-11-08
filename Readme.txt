@@ -1,0 +1,3 @@
+download all files and save in same folder and run ,not necessary to downlaod data.zip(for real time demo) as it is of many GB after extraction.
+1.pip install -r requirements.txt               -It is better to use anaconda prompt as it has most libraries already installed.
+2.python emotions.py --mode display             - to test the application.This will open webcam and show real time classification.It requires model.h5 file to be downloaded in same folder.
